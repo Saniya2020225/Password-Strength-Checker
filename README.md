@@ -37,7 +37,7 @@ Password-Strength-Checker/
 
 2. Navigate to the project folder:
   ``` bash
-   cd Password-Strength-Checker
+    cd Password-Strength-Checker
    ```
 
 3. Run the application:
@@ -48,6 +48,8 @@ Password-Strength-Checker/
 ## 📸 Screenshot
 
 <img width="978" height="543" alt="Screenshot 2026-06-29 010843" src="https://github.com/user-attachments/assets/8646dffd-2008-498f-a7b1-13085bfb1e0e" />
+
+<img width="824" height="307" alt="Screenshot 2026-06-29 013236" src="https://github.com/user-attachments/assets/c2e99153-60f3-411e-82b3-ae013ce2128c" />
 
 <img width="846" height="415" alt="Screenshot 2026-06-29 010920" src="https://github.com/user-attachments/assets/1778954d-61ff-4314-b16f-26b6ff4f8c3e" />
 
@@ -66,3 +68,6 @@ Password-Strength-Checker/
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
+## 📄 License
+
+This project is open-source and available under the MIT License.
